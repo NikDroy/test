@@ -1,3 +1,2 @@
-function (alert) {
-    alert(Hello World!);
-};
+Hello
+thisisfunct;
